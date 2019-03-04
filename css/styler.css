@@ -1,0 +1,37 @@
+body {
+  padding: 20px;
+}
+
+.header {
+  font-family: Verdana;
+  font-size: 52px;
+  font-weight: 800;
+}
+
+.welcome-div {
+  padding-left: 160px;
+  padding-top: 160px;
+}
+
+.desc-text {
+  font-family: Verdana;
+  font-size: 32px;
+  margin-top: -20px;
+}
+
+.profile-img {
+  /* padding-left: 40px; */
+  border-radius: 100%;
+  box-shadow: 0px 15px 140px rgba(112, 112, 112, 0.15);
+  transition: all 0.3s ease 0s;
+}
+
+.profile-img:hover {
+  /* padding-left: 40px; */
+  transform: scale(1.02);
+  box-shadow: 0px 15px 140px rgba(19, 41, 61, 0.2);
+}
+
+.profile-img-div {
+  width: 30%;
+}
