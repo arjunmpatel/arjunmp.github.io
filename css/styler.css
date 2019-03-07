@@ -37,7 +37,8 @@ body {
 }
 
 .button {
-  background-color: #4CAF50; /* Green */
+  margin-top: -20px;
+  background-color: #304560; /* blue */
   border: none;
   color: white;
   padding: 20px;
